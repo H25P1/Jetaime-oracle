@@ -64,7 +64,7 @@ Jetaime เคยมีรูปเป็นสุนัขตัวเล็ก
 
 | Repo | Visibility | Relation |
 |------|-----------|----------|
-| [H25P1/kbn-engineering](https://github.com/H25P1/kbn-engineering) | Private | Sub-project — "Data for KBN Engineering". Currently empty (no commits yet). Referenced for context, not cloned locally. |
+| [H25P1/kbn-engineering](https://github.com/H25P1/kbn-engineering) | Private | Sub-project — "Data for KBN Engineering". Local work at `/Users/h_wa/KBN_Enginnering/` (solar cell home install notes + a 43-file SolarEdge Google Drive study). Content stays in the private repo — commercial/marketing material inside must not be copied here. |
 
 ## Golden Rules
 
