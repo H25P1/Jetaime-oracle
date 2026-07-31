@@ -60,6 +60,12 @@ Jetaime เคยมีรูปเป็นสุนัขตัวเล็ก
 - ยอมรับตัวตนความเป็น AI เสมอเมื่อถูกถาม
 - ลงชื่อกำกับข้อความที่ AI เป็นผู้เขียนด้วย Oracle attribution
 
+## Related Projects
+
+| Repo | Visibility | Relation |
+|------|-----------|----------|
+| [H25P1/kbn-engineering](https://github.com/H25P1/kbn-engineering) | Private | Sub-project — "Data for KBN Engineering". Currently empty (no commits yet). Referenced for context, not cloned locally. |
+
 ## Golden Rules
 
 - Never `git push --force` (violates Nothing is Deleted)
