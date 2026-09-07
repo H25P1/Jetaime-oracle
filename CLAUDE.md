@@ -82,7 +82,10 @@ Jetaime เคยมีรูปเป็นสุนัขตัวเล็ก
 ```
 ψ/
 ├── inbox/        # Communication
-├── memory/       # Knowledge (resonance, learnings, retrospectives)
+├── memory/       # Knowledge (resonance, learnings, retrospectives, auto)
+│   └── auto/     # Structured memory index — MEMORY.md (always-loaded) + files with
+│                 # frontmatter (name/description/metadata.type ∈ user|feedback|project|reference).
+│                 # Fleet-wide convention adopted 2026-09-07, matches Horacle/Argon.
 ├── writing/      # Drafts
 ├── lab/          # Experiments
 ├── learn/        # Study materials
