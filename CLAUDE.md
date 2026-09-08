@@ -82,10 +82,12 @@ Jetaime เคยมีรูปเป็นสุนัขตัวเล็ก
 ```
 ψ/
 ├── inbox/        # Communication
-├── memory/       # Knowledge (resonance, learnings, retrospectives, auto)
-│   └── auto/     # Structured memory index — MEMORY.md (always-loaded) + files with
-│                 # frontmatter (name/description/metadata.type ∈ user|feedback|project|reference).
-│                 # Fleet-wide convention adopted 2026-09-07, matches Horacle/Argon.
+├── memory/       # Knowledge (resonance, learnings, retrospectives, auto, fleet-lessons)
+│   ├── auto/     # Structured memory index — MEMORY.md (always-loaded) + files with
+│   │             # frontmatter (name/description/metadata.type ∈ user|feedback|project|reference).
+│   │             # Fleet-wide convention adopted 2026-09-07, matches Horacle/Argon.
+│   └── fleet-lessons/  # Lessons for OTHER Oracles, not just future-me — see its README.
+│                       # Adopted 2026-09-08. Received lessons get surfaced via maw inbox.
 ├── writing/      # Drafts
 ├── lab/          # Experiments
 ├── learn/        # Study materials
